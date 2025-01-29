@@ -1,6 +1,5 @@
 import React from "react"
 
-// Честно это ужас какой-то, а не структура с ней не просто о расширяемости можно забыть, но и однопоточном мозге 
 type TUID = string
 
 export interface IData {
