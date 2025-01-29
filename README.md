@@ -43,7 +43,7 @@ interface IProps<T extends string> {
 
 ```
 А с движком произошла магия
-![Данные](https://c.tenor.com/j2hNq288VcAAAAAd/shia-labeouf-magic.gif)
+![Данные](./img/shia-labeouf-magic.gif)
  <br />**все старое должно быть забыло, а все новое добавленно** - цитаты великих людей. 
 
 У движка есть две реализации: <br />
